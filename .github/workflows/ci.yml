@@ -26,5 +26,5 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v0.1.14
         with:
-          tag_name: v1
+          tag_name: zzzz
           target_commitish: release
